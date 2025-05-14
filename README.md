@@ -27,3 +27,9 @@ Summarize a given text using deepseek-r1:14b via ollama locally.
 ## Traditional Algorithms
 Only Logistic Regression is available in the folder.
 Try predicting exam scores given the study hours.
+
+## Code Generation
+Learning Code Generation using LLMs via ollama locally.
+
+## Code Documentation
+Learning Code Documentation(ex:Google style docstrings) using LLMs via ollama locally.
